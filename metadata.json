@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mapa do Silêncio",
+  "description": "Uma aplicação web para ajudar estudantes, trabalhadores remotos e leitores a encontrar espaços públicos tranquilos para se concentrarem. Os usuários podem avaliar o nível de silêncio de locais em horários específicos, criando um perfil de ruído dinâmico para cada lugar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
